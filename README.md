@@ -46,6 +46,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-raymond-sy-424a6b206/)
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srsy12&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **srsy12/srsy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
