@@ -28,20 +28,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srsy12&theme=dark&background=000000)](https://git.io/streak-stats)---
 
-### :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the greater Los Angeles, CA area.
-
-- :telescope: I am a full stack Software Engineer excited to work in the tech industry.
-
-- :zap: In my free time, I play video games, mostly League of Legends and Chess right now.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/srsly12)
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srsy12&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
